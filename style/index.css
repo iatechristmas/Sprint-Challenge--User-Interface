@@ -293,4 +293,12 @@ footer nav a {
         background-color:lightgrey;
         color: black;
     }
-}
+    
+    .container{
+        width:auto;
+    }
+
+    .banner img{
+        width:500px;
+    }
+}   
