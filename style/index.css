@@ -66,6 +66,26 @@ p {
     line-height: 1.4;
 }
 
+/**formatting for nav bar**/
+
+.nav1{
+    display:flex;
+    justify-content:space-around;
+    align-items:center;
+    width:100%;
+}
+
+.nav1 a{
+    text-decoration: none;
+ 
+}
+
+.banner{
+    display:flex;
+    justify-content:center;
+    margin-bottom:2rem;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
@@ -83,6 +103,7 @@ p {
     width: 48%;
     padding: 0 1%;
     padding-bottom: 20px;  
+    font-weight:bold;
 }
 
 .middle-content {
@@ -93,7 +114,10 @@ p {
 .middle-content h2 {
     padding: 0 2%;
     margin-bottom: 0;
+    font-weight:bold;
 }
+
+
 
 .middle-content .boxes {
     display: flex;
@@ -112,6 +136,46 @@ p {
     justify-content: center;
 }
 
+.boxes .box:nth-child(1){
+    background-color:teal;
+}
+
+.boxes .box:nth-child(2){
+    background-color:gold;
+}
+
+.boxes .box:nth-child(3){
+    background-color:cadetblue;
+}
+
+.boxes .box:nth-child(4){
+    background-color:coral;
+}
+
+.boxes .box:nth-child(5){
+    background-color:crimson;
+}
+
+.boxes .box:nth-child(6){
+    background-color:forestgreen;
+}
+
+.boxes .box:nth-child(7){
+    background-color:darkorchid;
+}
+
+.boxes .box:nth-child(8){
+    background-color:hotpink;
+}
+
+.boxes .box:nth-child(9){
+    background-color:indigo;
+}
+
+.boxes .box:nth-child(10){
+background-color:dodgerblue;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -120,6 +184,7 @@ p {
 
 .bottom-content .text-container {
     padding-right: 4%;
+    font-weight:bold;
 }
 
 .bottom-content .text-container:last-child {
