@@ -33,13 +33,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML is used to separate all of the elements in your html, as well as tell you or the person reading the code which each element means.
+
 2. What are the 4 areas of the box model?
+
+What are the 4 areas of the box model?
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+Align-items works on the cross-axis.
+
 4. Explain why git is valuable to a team of developers.
 
+It allows a team of developers to collaborate, share and review each other's code, create and manage forks/branches, and keep code backed up/cataloged in an organized fashion.
+
 5. Define mobile-first design in your own words.
+
+A mobile first design would be designed from mobile up. It would be designed first with mobile in mind and then formatted with @media queries to accomodate tablet and desktop resolutions secondarily.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
@@ -105,3 +115,6 @@ Follow these steps for completing your project.
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
 - [ ] Add your team lead as a reviewer on the pull-request
 - [ ] Your team lead will count the project as complete by merging the branch back into master
+
+
+******
