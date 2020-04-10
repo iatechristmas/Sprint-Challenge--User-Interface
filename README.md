@@ -37,7 +37,7 @@ Semantic HTML is used to separate all of the elements in your html, as well as t
 
 2. What are the 4 areas of the box model?
 
-What are the 4 areas of the box model?
+Content, Padding, Border and Margin
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
